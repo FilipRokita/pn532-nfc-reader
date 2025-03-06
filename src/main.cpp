@@ -43,7 +43,7 @@ void setup() {
  * @brief Continuously scans for NFC tags.
  */
 void loop() {
-    for (int i = 0; i < 5; i++) {
+    for (int i = 0; i < 3; i++) {
         Serial.println();
     }
     readNFC();
