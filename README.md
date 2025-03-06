@@ -1,6 +1,6 @@
 # NFC Reader with PN532
 
-This project reads NFC tags using an Arduino-compatible board and a PN532 NFC module.  
+This project reads NFC tags using an Arduino-compatible board and a PN532 NFC module connected via **I2C**.  
 
 ## 📌 Features
 - Reads NFC tag UID
